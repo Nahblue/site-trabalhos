@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Trabalhos é um site no estilo de portfólio, para expor seus trabalhos.
 
-- [Visite o projeto online](nahblue.github.io/site-trabalhos/)
+- [Visite o projeto online](https://nahblue.github.io/site-trabalhos/)
 
 ## :memo: Licença
 
